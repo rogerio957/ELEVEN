@@ -1,0 +1,475 @@
+
+
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1515
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1515
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77352
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77353
+#EXTINF:-1,PT: ELEVEN SPORTS 1 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77354
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77355
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77356
+#EXTINF:-1,PT: ELEVEN SPORTS 2 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77357
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77358
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77359
+#EXTINF:-1,PT: ELEVEN SPORTS 3 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77360
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77361
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77362
+#EXTINF:-1,PT: ELEVEN SPORTS 4 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77363
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77364
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77365
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77366
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77367
+#EXTINF:-1,PT: ELEVEN SPORTS 6 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77368
+#EXTINF:-1,|PT| Eleven Sports 1 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14548
+#EXTINF:-1,|PT| Eleven Sports 2 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14544
+#EXTINF:-1,|PT| Eleven Sports 3 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14537
+#EXTINF:-1,|PT| Eleven Sports 4 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14535
+#EXTINF:-1,|PT| Eleven Sports 5 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14532
+#EXTINF:-1,|PT| Eleven Sports 6 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14530
+#EXTINF:-1,||pt|| ELEVEN SPORTS 1 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36985
+#EXTINF:-1,||pt|| ELEVEN SPORTS 2 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36986
+#EXTINF:-1,||pt|| ELEVEN SPORTS 3 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36987
+#EXTINF:-1,||pt|| ELEVEN SPORTS 4 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36988
+#EXTINF:-1,||pt|| ELEVEN SPORTS 5 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36989
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77941
+#EXTINF:-1,PT1: ELEVEN SPORTS 1 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78421
+#EXTINF:-1,PT1: ELEVEN SPORTS 1 SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78518
+#EXTINF:-1,PT1: ELEVEN SPORTS 2 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78423
+#EXTINF:-1,PT1: ELEVEN SPORTS 2 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78422
+#EXTINF:-1,PT1: ELEVEN SPORTS 2 SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78519
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77947
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77948
+#EXTINF:-1,PT1: ELEVEN SPORTS 3 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78425
+#EXTINF:-1,PT1: ELEVEN SPORTS 3 SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78520
+#EXTINF:-1,PT1: ELEVEN SPORTS 4
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78427
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77951
+#EXTINF:-1,PT1: ELEVEN SPORTS 5
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78428
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77953
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77954
+#EXTINF:-1,PT1: ELEVEN SPORTS 6
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78429
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77956
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77957
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77352
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77353
+#EXTINF:-1,PT: ELEVEN SPORTS 1 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77354
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77355
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77356
+#EXTINF:-1,PT: ELEVEN SPORTS 2 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77357
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77358
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77359
+#EXTINF:-1,PT: ELEVEN SPORTS 3 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77360
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77361
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77362
+#EXTINF:-1,PT: ELEVEN SPORTS 4 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77363
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77364
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77365
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77366
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77367
+#EXTINF:-1,PT: ELEVEN SPORTS 6 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77368
+#EXTINF:-1,PT | Eleven Sports 1ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9869
+#EXTINF:-1,PT | Eleven Sports 1ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9546
+#EXTINF:-1,PT | Eleven Sports 1ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74179
+#EXTINF:-1,PT | Eleven Sports 1ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9545
+#EXTINF:-1,PT | Eleven Sports 1ⓧ UHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9491
+#EXTINF:-1,PT | Eleven Sports 2ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9870
+#EXTINF:-1,PT | Eleven Sports 2ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9548
+#EXTINF:-1,PT | Eleven Sports 2ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9867
+#EXTINF:-1,PT | Eleven Sports 2ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9547
+#EXTINF:-1,PT | Eleven Sports 3ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9871
+#EXTINF:-1,PT | Eleven Sports 3ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9868
+#EXTINF:-1,PT | Eleven Sports 3ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9550
+#EXTINF:-1,PT | Eleven Sports 3ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9549
+#EXTINF:-1,PT | Eleven Sports 4ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9851
+#EXTINF:-1,PT | Eleven Sports 4ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9552
+#EXTINF:-1,PT | Eleven Sports 4ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74090
+#EXTINF:-1,PT | Eleven Sports 4ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9551
+#EXTINF:-1,PT | Eleven Sports 5ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9850
+#EXTINF:-1,PT | Eleven Sports 5ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9554
+#EXTINF:-1,PT | Eleven Sports 5ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9553
+#EXTINF:-1,PT | Eleven Sports 6ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9849
+#EXTINF:-1,PT | Eleven Sports 6ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9556
+#EXTINF:-1,PT | Eleven Sports 6ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9555
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |PT| Eleven Sports 1 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14548
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |PT| Eleven Sports 2 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |PT| Eleven Sports 4 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14535
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |PT| Eleven Sports 6 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14530
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: ELEVEN SPORTS 1 FHD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/887
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Eleven 2 HD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/888
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Eleven SPORT 3  FHD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: ELEVEN SPORTS 4 HD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/891
+#EXTINF:-1,|PT| Eleven Sports 1 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14548
+#EXTINF:-1,|PT| Eleven Sports 2 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14544
+#EXTINF:-1,|PT| Eleven Sports 3 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14537
+#EXTINF:-1,|PT| Eleven Sports 4 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14535
+#EXTINF:-1,|PT| Eleven Sports 5 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14532
+#EXTINF:-1,|PT| Eleven Sports 6 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14530
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1515
+#EXTINF:-1,PT | Eleven 1 HD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1241
+#EXTINF:-1,PT | Eleven 2 HD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1242
+#EXTINF:-1,PT | Eleven 3 HD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1243
+#EXTINF:-1,PT | Eleven 4
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1244
+#EXTINF:-1,PT | Eleven 5
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1245
+#EXTINF:-1,PT | Eleven 6
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1246
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
